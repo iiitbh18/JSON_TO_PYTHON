@@ -15,6 +15,7 @@ print(a.status_code)  if 200 come then our is successful . <br>
 we can print the data of that Api call using the method a.json() . <br>
 print(a.url)  ### we can get the url also . <br>
 we can also filter our result. <br>
+post is a kind of write statement where we can update something we can change something. <br>
 
 
 
